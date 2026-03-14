@@ -14,8 +14,15 @@ A script that demonstrates how to clean and analyze datasets using Pandas.
 - **Tools**: Pandas, Seaborn
 - **Path**: `data_analysis/data_cleaner.py`
 
-### 3. Image Recognition (Coming Soon)
-A planned project using TensorFlow/PyTorch for basic image classification.
+### 3. Basic Neural Network
+A foundational implementation of a simple neural network from scratch, demonstrating core AI concepts.
+- **Tools**: NumPy
+- **Path**: `ai_basics/simple_nn.py`
+
+### 4. Web Scraper & Sentiment Analysis
+A Python script that scrapes web content and performs sentiment analysis using TextBlob.
+- **Tools**: Requests, BeautifulSoup, TextBlob
+- **Path**: `web_scraper/sentiment_analyzer.py`
 
 ---
 *Created with ❤️ by @yihang880*
